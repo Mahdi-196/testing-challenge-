@@ -1,0 +1,19 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "HyperText Markup Language", "isCorrect": true },
+      { "text": "Hot Mail", "isCorrect": false },
+      { "text": "How to Make Lasagna", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 1 + '1' in JavaScript?",
+    "answers": [
+      { "text": "2", "isCorrect": false },
+      { "text": "'2'", "isCorrect": false },
+      { "text": "'11'", "isCorrect": true },
+      { "text": "NaN", "isCorrect": false }
+    ]
+  }
+]
